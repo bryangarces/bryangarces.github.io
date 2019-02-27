@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "GD205_GameBoard_3",
+"dataUrl": "Strategy_Game.data.unityweb",
+"wasmCodeUrl": "Strategy_Game.wasm.code.unityweb",
+"wasmFrameworkUrl": "Strategy_Game.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
